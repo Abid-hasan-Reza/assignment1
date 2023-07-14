@@ -1,0 +1,35 @@
+section{
+    display: flex;
+    background-image: url(food-network-main/images/shapes/7.png)    
+}
+.firstpart{
+    width: 50%;
+   padding-left: 10%;
+}
+.firstpart img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, blue);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+
+}
+.blue{
+    color: blue;
+}
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+.about-me{
+    width: 50%;
+}
+.about-me img{
+    width: 60%;
+}
+.section2{
+    background-image: url(food-network-main/images/shapes/Frame\ 58.jpg);
+}
