@@ -22,8 +22,9 @@ section{
     color: blue;
 }
 body{
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Lato', sans-serif;
 }
+    
 .about-me{
     width: 50%;
 }
